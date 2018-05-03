@@ -14,3 +14,8 @@ bash t.sh -u
 ```
 bash t.sh -p
 ```
+
+小内存 vps 添加系统定时重启任务
+```
+(crontab -l ; echo "0 16 * * * /sbin/reboot") | crontab -
+```
