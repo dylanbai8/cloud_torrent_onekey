@@ -1,4 +1,4 @@
-# Cloud Torrent 一键安装脚本
+# Cloud Torrent 一键安装脚本 （内置 bbr 支持 openvz）
 
 使用：登陆 Root 执行一键脚本
 ```
